@@ -14,13 +14,14 @@ Furever homes is a platform designed to provide a simple and easy pet adoption e
 </div>
 
 ## User Stories
+
 ### Persona 1
 
 Who:Pet Adopter
 What: Want to browse pets with images and information about each of them
 Why: To explore potential pets that fit in with my lifestyle and preferences
 
-REFINEMENT: Initially lacked filtering options, but was refined to have a filtering option to ensure there wasn't an overwhelming number of pets being displayed
+REFINEMENT: Initially lacked filtering options, but was refined to have a filtering option to ensure there wasn't an overwhelming number of pets being displayed and thaat those shown to the user were actually relevant and suitable for their needs. Filter options include pet type, age, activity level, breed.
 
 ### Persona 2
 
@@ -46,8 +47,10 @@ REFINEMENT: Sorting applications allocated to particular pets to compare applica
 
 ### Persona 5
 
-Who:Shelter Admin
+Who: Shelter Admin
 What: Need to add new pets to the system
 Why: To allow people to browse and apply for pets
 
 REFINEMENT: Inclusion of images as well as descriptions that include breed and health details and availablity status. Pets now have the status (available, considering applicants, adopted) on their profiles.
+
+
